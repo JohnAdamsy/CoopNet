@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-	background: url('http://www.thanksgivingcoffee.com/images/kraft-texture2.png');
+	background: url('../images/background.png');
 }
 header, .content {
 	border-radius: 2px;
