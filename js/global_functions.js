@@ -557,5 +557,4 @@ $(document).ready(function() {
 					$('article.tabs section').removeClass('ON');
 					$(this).closest('section').addClass('ON');
 				});
-			});
 });/*end of parent document ready function*/
